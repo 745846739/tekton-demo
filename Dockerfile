@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.32.0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/events:v0.58.0
